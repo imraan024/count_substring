@@ -3,7 +3,7 @@
 
 **NOTE:** I think there is a typo on the problem statement. In the problem statement `data` appears in given text 3 times which is not true for the given string `tadadattaetadadadafa`. But the substring `dada` appears 3 times. So I solved this problem with substring `dada`
 
-#### My Solution: [count_substring.py](https://www.example.com)
+#### My Solution: [count_substring.py](count_substring.py)
 ```
 def count_substring(string,sub_string):
     l=len(sub_string)
